@@ -1,0 +1,66 @@
+.top {
+    width: 100%;
+    background-color: #067917;
+    min-height: 48px;
+    margin-top: 20px;
+}
+
+.menu {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    margin: -10px;
+}
+
+.prim {
+    width: 80%;
+    min-width: 400px;
+    max-width: 1000px;
+    background-color: #096c00;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+    border: 5px solid #361640;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-image:url("./Images/breaking\ bad\ background.jpg");
+    color: white;
+}
+
+.title {
+    text-align: center;
+}
+.nav{
+    color: white;
+    font-size: 24px;
+}
+
+
+.imgflx {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.foot{
+    font-family: serif;
+    text-align: center;
+}
+
+hr {
+    background-color: #000000;
+    border-color: #000000;
+    border-style: solid;
+    height: 1px;
+}
+a {
+    color: rgb(63, 200, 213)
+}
